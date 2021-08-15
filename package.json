@@ -1,0 +1,25 @@
+{
+  "name": "gulptask",
+  "version": "1.0.0",
+  "description": "Gulp 是一個 task runner。\r Gulpfile 內將包含:",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.7",
+    "glob-parent": "^6.0.1",
+    "gulp-postcss": "^9.0.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-terser": "^2.0.1",
+    "sass": "^1.37.5"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "postcss": "^8.3.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
